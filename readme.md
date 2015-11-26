@@ -13,7 +13,7 @@ Clone this repo
 $ git clone https://github.com/xrexonx/phpStorm-JS-LiveTemplates.git
 ```
 
-or manually download the zip file this repo here.
+or manually download the zip file on this repo here.
 
 
 
