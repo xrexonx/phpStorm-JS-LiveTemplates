@@ -154,7 +154,7 @@ Revealing Module Patterns
 //rmp
 var myRevealingModule = (function () {
  
-        var privateVar = "Rexon,
+        var privateVar = "Rexon",
             publicVar = "Hey there!";
  
         function privateFunction() {
