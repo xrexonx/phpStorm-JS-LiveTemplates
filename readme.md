@@ -72,7 +72,7 @@ generating self invoking anonymous function
 
 generating named function
 ```javascript
-// ()() 
+// fn 
 var functionName = function (someParam) {
     //Some awesome code here
 }
