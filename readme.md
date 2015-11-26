@@ -5,8 +5,19 @@ If you're using PhpStorm on your development, here's some of my customs live tem
 ## What is Live Templates?
 Live templates let you insert frequently-used or custom code constructs into your source code file quickly, efficiently, and accurately.
 
-
 ## Installation
+
+Clone this repo
+
+```sh
+$ git clone https://github.com/xrexonx/phpStorm-JS-LiveTemplates.git
+```
+
+or manually download the zip file this repo here.
+
+
+
+## Installation on your phpStorm
 1. On the main menu, choose *File* | *Import Settings*.
 2. In the Import File Location dialog box that opens select the desired archive. (it must be the settings.jar)
 3. In the Select Components to Import dialog box that opens specify the settings to be imported, and click OK.
