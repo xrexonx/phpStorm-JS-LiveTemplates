@@ -1,6 +1,6 @@
-# Live templates for javascript on PhpStorm
+# Live templates for javascript on PhpStorm and WebStorm
 
-If you're using PhpStorm on your development, here's some of my customs live templates for javascripts you might wanna use.
+If you're using PhpStorm on your development, here's some of my customs live templates for javascripts you might wanna use. And also you could import this settings to WebStorm of course.
 
 ## What is Live Templates?
 Live templates let you insert frequently-used or custom code constructs into your source code file quickly, efficiently, and accurately.
