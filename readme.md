@@ -1,4 +1,4 @@
-# Live templates for javascript on PhpStorm and WebStorm
+# Javascript Live Templates for PhpStorm and WebStorm
 
 If you're using PhpStorm on your development, here's some of my customs live templates for javascripts you might wanna use. And also you could import this settings to WebStorm of course.
 
